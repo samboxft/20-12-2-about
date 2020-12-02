@@ -68,7 +68,7 @@ bottom: 300px;
 }
     .skill-row {
         /* line-height: 1.1em; */
-    width: 25%;
+    width: 45%;
     text-align:center;
     margin-left: auto;
     margin-right: auto;
@@ -76,11 +76,20 @@ bottom: 300px;
     
 }
 .guitar {
-    margin-top:-20px;
+    margin-top:-79px;
+    float: right;
+    margin-left:30px;
+    z-index: auto;
 }
-.guitar , .code {
+ .code {
     float:left;
+    margin-right:30px;
 }
 #space {
     margin: 5px;
+}
+#best {
+        line-height: 2.1em;
+
+    margin:13px auto 13px auto;
 }
