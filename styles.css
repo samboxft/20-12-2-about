@@ -35,12 +35,12 @@ h2, h3 {
     padding-top:90px;
 
 }
-.mid-container {
+/* .mid-container {
 
 }
 .bot-container {
 
-}
+} */
 .btm-cloud {
 position: absolute;
 
@@ -63,33 +63,14 @@ bottom: 300px;
     margin-top: 40px;
     /* line-height: 1.1em; */
 }
-.iam {
-    font-size:2rem
-}
-    .skill-row {
+
+.skill-row {
         /* line-height: 1.1em; */
     width: 45%;
     text-align:center;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 50px;
+    /* margin-bottom: 50px; */
     
 }
-.guitar {
-    margin-top:-79px;
-    float: right;
-    margin-left:30px;
-    z-index: auto;
-}
- .code {
-    float:left;
-    margin-right:30px;
-}
-#space {
-    margin: 5px;
-}
-#best {
-        line-height: 2.1em;
 
-    margin:13px auto 13px auto;
-}
